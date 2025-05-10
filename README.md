@@ -13,8 +13,7 @@ I am a student in the Faculty of Engineering at the National University of Jujuy
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samas1503&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Samas1503&theme=tokyonight&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samas1503&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samas1503)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samas1503&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samas1503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
