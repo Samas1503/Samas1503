@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Paredes</h1>
 <h3 align="center">A passionate back developer from Argentina</h3>
+
 # 💫 About Me:
 I am a student in the Faculty of Engineering at the National University of Jujuy. I completed my degree in Analyst and Programmer and am currently pursuing a degree in Computer Engineering.<br>I have a great ability to adapt to multiple disciplinary environments.<br>I am known for my ability to work in a team and my commitment to the development of assigned tasks.<br>I am enthusiastic about continuing to learn and improve my skills, knowledge, and attitudes.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samas-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samas1503) 
