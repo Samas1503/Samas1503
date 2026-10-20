@@ -1,36 +1,90 @@
 <h1 align="center">Hi 👋, I'm Samuel Paredes</h1>
-<h3 align="center">A passionate back developer from Argentina</h3>
+<h3 align="center">Full-stack developer (TypeScript · Next.js · Node.js) building Web3 products on Solana & EVM — from Jujuy, Argentina 🇦🇷</h3>
 
-# 💫 About Me:
-I am a student in the Faculty of Engineering at the National University of Jujuy. I completed my degree in Analyst and Programmer and am currently pursuing a degree in Computer Engineering.<br>I have a great ability to adapt to multiple disciplinary environments.<br>I am known for my ability to work in a team and my commitment to the development of assigned tasks.<br>I am enthusiastic about continuing to learn and improve my skills, knowledge, and attitudes.
+<p align="center">
+  <a href="https://cv.samas-server.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/samas-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samueleliasparedes.1502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Samas1503&style=for-the-badge&color=7aa2f7&label=Profile+views" alt="Profile views" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samas-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samas1503) 
+## 💫 About me
 
-<img src="https://raw.githubusercontent.com/Samas1503/Samas1503/output/snake.svg" alt="Snake animation" />
+- 🎓 Programmer Analyst graduate, now studying **Computer Engineering** at the Faculty of Engineering, National University of Jujuy (UNJu).
+- 🛠️ Full-stack developer with a backend focus: REST APIs, relational databases, auth and type-safe data layers.
+- ⛓️ Currently building **Web3 / RWA** products at [**YagLab0**](https://github.com/YagLab0): on-chain escrow and traceability for lithium carbonate (Solana, Monad) and agent-based payments for tourism (Celo).
+- 🤝 I work well in multidisciplinary teams, adapt fast, and take ownership of what I ship.
+- 🌱 Always learning; right now: Rust/Anchor, Solidity/Foundry and AI agents with on-chain payments (x402).
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+## 🚀 Featured projects
 
-# 📊 GitHub Stats:
-<div style="display: flex;">
-  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Samas1503&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="[#](https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320)">
-    <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=Samas1503&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**JuLit**](https://github.com/YagLab0/julit) · [live](https://ju-lit.vercel.app) | B2B directory and USDC **escrow for lithium carbonate lots** on Solana: buyer funds are locked in a program-owned vault and released to the producer on delivery. I built the bilateral buyer–producer contract flow (Ed25519 signature verification, on-chain SPL Memo records), the admin panel (origins, treasury supervision) and the full i18n. | Rust · Anchor · Solana Kit · Next.js 16 · React 19 · Supabase · Three.js · MapLibre |
+| [**JuLit Monad**](https://github.com/YagLab0/julit-monad) | EVM port of JuLit on **Monad Testnet**: batch registration, certification and a public product passport. I implemented the buyer lifecycle, the zero-trust passport, simulated settlement (with unit tests) and the 3D batch showcase. | Solidity · Foundry · viem · EIP-6963 · Next.js · Supabase · Vitest |
+| **nomai** (private, in progress) | Software for tourism businesses using **AI agents & blockchain**, with pay-per-request APIs over the x402 protocol on Celo. | Turborepo · Next.js · Hono · x402 · viem · shadcn/ui |
+| [**portfolio**](https://github.com/Samas1503/portfolio) · [live](https://cv.samas-server.com) | My personal portfolio with an admin dashboard: schema-driven CRUD for projects, skills and experience, JWT session auth, image uploads and contact form. | Next.js 15 · React 19 · TypeScript · Supabase (Postgres + RLS) · Zod · Tailwind · Radix UI · Cloudinary · Resend |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samas1503&layout=donut-vertical&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Tech stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samas1503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+**Languages**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Languages](https://skillicons.dev/icons?i=ts,js,rust,solidity,python,php,java,c,cpp,cs,bash,html,css)](https://skillicons.dev)
 
----
-[![](https://visitcount.itsvg.in/api?id=Samas1503&icon=3&color=0)](https://visitcount.itsvg.in)
+**Frontend**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,sass,bootstrap,threejs)](https://skillicons.dev)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,django)](https://skillicons.dev)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+**Web3**
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-0E7C86?style=flat&logoColor=white)
+![Monad](https://img.shields.io/badge/Monad-836EF9?style=flat&logoColor=white)
+![Celo](https://img.shields.io/badge/Celo-FCFF52?style=flat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logoColor=white)
+![viem](https://img.shields.io/badge/viem-FFC517?style=flat&logoColor=black)
+![Metaplex](https://img.shields.io/badge/Metaplex-000000?style=flat&logoColor=white)
+![x402](https://img.shields.io/badge/x402-0052FF?style=flat&logoColor=white)
+
+**Databases & ORMs**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase)](https://skillicons.dev)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+
+**DevOps, cloud & tools**
+
+[![Tools](https://skillicons.dev/icons?i=docker,vercel,heroku,linux,git,github,gitlab,pnpm,vitest,postman)](https://skillicons.dev)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samas1503&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Samas1503&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samas1503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samas1503/Samas1503/output/snake.svg" alt="Snake animation" />
+</p>
