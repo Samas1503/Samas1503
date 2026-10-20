@@ -22,7 +22,7 @@
 | --- | --- | --- |
 | [**JuLit**](https://github.com/YagLab0/julit) · [live](https://ju-lit.vercel.app) | B2B directory and USDC **escrow for lithium carbonate lots** on Solana: buyer funds are locked in a program-owned vault and released to the producer on delivery. I built the bilateral buyer–producer contract flow (Ed25519 signature verification, on-chain SPL Memo records), the admin panel (origins, treasury supervision) and the full i18n. | Rust · Anchor · Solana Kit · Next.js 16 · React 19 · Supabase · Three.js · MapLibre |
 | [**JuLit Monad**](https://github.com/YagLab0/julit-monad) | EVM port of JuLit on **Monad Testnet**: batch registration, certification and a public product passport. I implemented the buyer lifecycle, the zero-trust passport, simulated settlement (with unit tests) and the 3D batch showcase. | Solidity · Foundry · viem · EIP-6963 · Next.js · Supabase · Vitest |
-| [**nomai**](https://github.com/YagLab0/nomai) | Software for tourism businesses using **AI agents & blockchain**, with pay-per-request APIs over the x402 protocol on Celo. | Turborepo · Next.js · Hono · x402 · viem · shadcn/ui |
+| **nomai** (private, in progress) | Software for tourism businesses using **AI agents & blockchain**, with pay-per-request APIs over the x402 protocol on Celo. | Turborepo · Next.js · Hono · x402 · viem · shadcn/ui |
 | [**portfolio**](https://github.com/Samas1503/portfolio) · [live](https://cv.samas-server.com) | My personal portfolio with an admin dashboard: schema-driven CRUD for projects, skills and experience, JWT session auth, image uploads and contact form. | Next.js 15 · React 19 · TypeScript · Supabase (Postgres + RLS) · Zod · Tailwind · Radix UI · Cloudinary · Resend |
 
 ## 💻 Tech stack
