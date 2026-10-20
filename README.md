@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer (TypeScript · Next.js · Node.js) building Web3 products on Solana & EVM — from Jujuy, Argentina 🇦🇷</h3>
 
 <p align="center">
-  <a href="https://portfolio-paredes-samuel-samas1503s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://cv.samas-server.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/samas-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samueleliasparedes.1502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Samas1503&style=for-the-badge&color=7aa2f7&label=Profile+views" alt="Profile views" />
